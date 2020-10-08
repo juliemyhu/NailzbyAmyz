@@ -1,0 +1,45 @@
+.Footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Lexend Peta', sans-serif;
+}
+
+#brand {
+    padding-top: 30px;
+    font-family: 'Kalam', cursive;
+}
+
+#icons{
+    width: 90%;
+    padding-top: 15px;
+    padding-bottom: 10px;;
+}
+
+#link{
+    color:white;
+}
+
+#copyright{
+    font-size: 70%;
+    padding-bottom: 20px;
+}
+
+#teamButton{
+    margin-bottom: 10px;
+}
+
+.modal-title{
+    color: black;
+}
+
+.modal-body{
+    color: black;
+}
+
+@media only screen
+  and (max-device-width: 600px) {
+    #contactinfo{
+        font-size: 40%;
+    }
+}
