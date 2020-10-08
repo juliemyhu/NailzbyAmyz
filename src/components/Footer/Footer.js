@@ -78,17 +78,21 @@ class Footer extends Component {
                 <h1 id="brand">Nailz.By.AmyZ.</h1>
                 <center>
                 <div className="row" id="icons">
-                    <div className="col-4">
+                    <div className="col-3">
                         <i className="fas fa-phone-square fa-5x"></i>
                         <p id="contactinfo">(415) 810 - 6721</p>
                     </div>
-                    <div className="col-4">
+                    <div className="col-3">
                         <i className="fas fa-envelope-square fa-5x"></i>
                         <p id="contactinfo"><a id="link" href="mailto:yaqingzhao1022@gmail.com">Email</a></p>
                     </div>
-                    <div className="col-4">
+                    <div className="col-3">
                         <i className="fab fa-instagram-square fa-5x"></i>
                         <p id="contactinfo"><a id="link" href="https://www.instagram.com/amyz1022" target="_blank" rel="noopener noreferrer">@amyz1022</a></p>
+                    </div>
+                    <div className="col-3">
+                        <i className="fab fa-weixin fa-5x"></i>
+                        <p id="contactinfo">zhao-yaqing</p>
                     </div>
                 </div>
                 <button type="button" className="btn btn-light btn-sm" id="teamButton" data-toggle="modal" data-target="#exampleModal2" >Team Member Login</button>
