@@ -5,7 +5,7 @@ import './Nail.css';
 import Navbar from '../components/Navbar/Navbar';
 import Footer from '../components/Footer/Footer';
 // import Home from './Home/Home';
-// import About from './About/About';
+import About from './About/About';
 import Portfolio from './Portfolio/Portfolio';
 // import Pricing from './Pricing/Pricing';
 // import Book from './Book/Book';
@@ -22,7 +22,7 @@ class  Nail extends Component {
                 <ScrollToTop>
                     <Switch>
                         {/* <Route path="/" exact component={Home} /> */}
-                        {/* <Route path="/about" exact component={About} /> */}
+                        <Route path="/about" exact component={About} />
                         <Route path="/portfolio" exact component={Portfolio} />
                         {/* <Route path="/pricing" exact component={Pricing} /> */}
                         {/* <Route path="/book" exact component={Book} /> */}
