@@ -1,6 +1,7 @@
 .TitleLabel {
     text-align: center;
-    background-color: pink;
+    /* background-color: pink; */
+    background-image: url('../Images/retina_wood_background.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

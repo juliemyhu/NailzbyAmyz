@@ -14,7 +14,10 @@ class Portfolio extends Component {
                     <TitleLabel>
                         PORTFOLIO
                     </TitleLabel>
-                 <SlideShow></SlideShow>
+                <div id="portfolioBackground">
+                    <SlideShow></SlideShow>
+                </div>
+                 
 
                 </div>
             </Aux>

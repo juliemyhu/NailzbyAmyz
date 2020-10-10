@@ -1,0 +1,53 @@
+#aboutBackground{
+    background-image:url('../../components/Images/marble.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 5px 5px #888, 0px -5px 5px #888;
+}
+
+#aboutpic {
+    width: 20%;
+    height:20%;
+    border-radius: 70%;
+}
+
+/* #aboutPic2 {
+    width: 70%;
+    float: right;
+} */
+
+.paragraphTitle{
+    font-family: 'Lexend Peta', sans-serif;
+    background: -webkit-linear-gradient(#eee,#333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#aboutPartOne{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width:70%;
+    margin: auto;
+}
+
+#aboutbio{
+    font-family: 'Lexend Peta', sans-serif;
+}
+
+#aboutPartTwo{
+    padding-top: 70px;
+    padding-bottom: 40px;
+    width: 70%;
+    margin: auto;
+}
+
+@media only screen
+  and (max-device-width: 600px) {
+    #aboutPartOne{
+        width:90%;
+    }
+    #aboutPartTwo{
+        width: 90%;
+    }
+}
