@@ -1,0 +1,40 @@
+.SlideShow{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#modalPic {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create 3 equal columns that sits next to each other */
+  .column {
+    flex: 33%;
+    max-width: 33%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+
+
+
+@media only screen
+  and (max-device-width: 600px) {
+    .SlideShow{
+        width: 85%;
+    }
+}

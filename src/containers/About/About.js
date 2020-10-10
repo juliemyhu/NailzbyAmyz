@@ -11,7 +11,9 @@ class About extends Component {
             <Aux>
                 <div className="About">
                     <TitleLabel>ABOUT</TitleLabel>
-
+                        <p>
+                            Amy Zhao is a self taught nail artist from China. 
+                        </p>
                 </div>
             </Aux>
         )

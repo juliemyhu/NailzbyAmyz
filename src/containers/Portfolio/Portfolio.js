@@ -4,6 +4,7 @@ import './Portfolio.css';
 import TitleLabel from '../../components/TitleLabel/TitleLabel';
 // import ReadyBook from '../../components/ReadyBook/ReadyBook';
 import Aux from '../../hoc/Aux/Aux';
+import SlideShow from '../../components/SlideShow/SlideShow';
 
 class Portfolio extends Component {
     render() {
@@ -13,6 +14,8 @@ class Portfolio extends Component {
                     <TitleLabel>
                         PORTFOLIO
                     </TitleLabel>
+                 <SlideShow></SlideShow>
+
                 </div>
             </Aux>
         )
