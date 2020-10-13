@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/NailzbyAmyz/static/css/main.a9a852dc.chunk.css",
+    "main.js": "/NailzbyAmyz/static/js/main.b475270a.chunk.js",
+    "main.js.map": "/NailzbyAmyz/static/js/main.b475270a.chunk.js.map",
+    "runtime-main.js": "/NailzbyAmyz/static/js/runtime-main.30098f7a.js",
+    "runtime-main.js.map": "/NailzbyAmyz/static/js/runtime-main.30098f7a.js.map",
+    "static/js/2.bc4de67e.chunk.js": "/NailzbyAmyz/static/js/2.bc4de67e.chunk.js",
+    "static/js/2.bc4de67e.chunk.js.map": "/NailzbyAmyz/static/js/2.bc4de67e.chunk.js.map",
+    "index.html": "/NailzbyAmyz/index.html",
+    "precache-manifest.60d5954e21aff67946f7ebca918aaf4b.js": "/NailzbyAmyz/precache-manifest.60d5954e21aff67946f7ebca918aaf4b.js",
+    "service-worker.js": "/NailzbyAmyz/service-worker.js",
+    "static/css/main.a9a852dc.chunk.css.map": "/NailzbyAmyz/static/css/main.a9a852dc.chunk.css.map",
+    "static/js/2.bc4de67e.chunk.js.LICENSE.txt": "/NailzbyAmyz/static/js/2.bc4de67e.chunk.js.LICENSE.txt",
+    "static/media/aboutme.jpg": "/NailzbyAmyz/static/media/aboutme.6804dcb3.jpg",
+    "static/media/Portfolio.css": "/NailzbyAmyz/static/media/marble.d9a10890.jpg",
+    "static/media/portfolio1.jpg": "/NailzbyAmyz/static/media/portfolio1.fd56becd.jpg",
+    "static/media/portfolio2.jpg": "/NailzbyAmyz/static/media/portfolio2.09585fba.jpg",
+    "static/media/portfolio3.jpg": "/NailzbyAmyz/static/media/portfolio3.688e3501.jpg",
+    "static/media/portfolio4.jpg": "/NailzbyAmyz/static/media/portfolio4.349d3bc5.jpg",
+    "static/media/portfolio5.jpg": "/NailzbyAmyz/static/media/portfolio5.6cafdef7.jpg",
+    "static/media/portfolio6.jpg": "/NailzbyAmyz/static/media/portfolio6.706c33cd.jpg",
+    "static/media/TitleLabel.css": "/NailzbyAmyz/static/media/retina_wood_background.46561090.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30098f7a.js",
+    "static/js/2.bc4de67e.chunk.js",
+    "static/css/main.a9a852dc.chunk.css",
+    "static/js/main.b475270a.chunk.js"
+  ]
+}
