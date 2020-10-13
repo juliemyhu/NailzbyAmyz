@@ -17,9 +17,9 @@ class About extends Component {
                                 <span>
                                     Amy Zhao is a self-taught Nail Artist in the San Francisco Bay Area. <br/>
                                     Before immigrating to the US from China in 2018, she learned how to do <br/>
-                                    nails so that she would have the skills to work in America. What came <br/>
+                                    nails so that she would have a viable skill in America. What came <br/>
                                     from necessity, quickly became her life and dream. Now she is ready to <br/>
-                                    turn this dream into a career.
+                                    turn this dream into a reality.
                                 </span>
                             </p>
                         </div>
