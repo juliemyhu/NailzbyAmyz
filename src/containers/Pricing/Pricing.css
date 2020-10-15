@@ -1,0 +1,19 @@
+#Background{
+    background-image:url('../../components/Images/marble.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 5px 5px #888, 0px -5px 5px #888;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#list{
+    font-family: 'Bintari';
+    font-size: 50px;
+}
+
+#service{
+    font-family:'Bintari' ;
+    font-size: 40px;
+}

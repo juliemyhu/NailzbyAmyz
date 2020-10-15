@@ -7,7 +7,7 @@ import Footer from '../components/Footer/Footer';
 import Home from './Home/Home';
 import About from './About/About';
 import Portfolio from './Portfolio/Portfolio';
-// import Pricing from './Pricing/Pricing';
+import Pricing from './Pricing/Pricing';
 import Book from './Book/Book';
 // import TeamMember from './TeamMember/TeamMember';
 // import Thanks from './Thanks/Thanks';
@@ -24,7 +24,7 @@ class  Nail extends Component {
                         <Route path="/" exact component={Home} />
                         <Route path="/about" exact component={About} />
                         <Route path="/portfolio" exact component={Portfolio} />
-                        {/* <Route path="/pricing" exact component={Pricing} /> */}
+                        <Route path="/pricing" exact component={Pricing} />
                         <Route path="/book" exact component={Book} />
                         {/* <Route path="/team" exact component={TeamMember} />
                         <Route path="/thankyou" exact component={Thanks} /> */}
