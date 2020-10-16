@@ -11,7 +11,7 @@ class About extends Component {
             <Aux>
                 <div className="About">
                     <TitleLabel>ABOUT</TitleLabel>
-                        <div id="aboutBackground">
+                        <div id="Background">
                             <img src={aboutme} alt="aboutme" id="aboutpic"></img>
                             <p id="aboutbio">
                                 <span>

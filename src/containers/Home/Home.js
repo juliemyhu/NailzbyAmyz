@@ -11,7 +11,7 @@ class Home extends Component {
             <Aux>
                 <div className="Home">
                     <TitleLabel>Home</TitleLabel>
-                        <div id="aboutBackground">
+                        <div id="Background">
                             <p id="Homebio">
                                 Professional Nail Services in Bay Area
                               
