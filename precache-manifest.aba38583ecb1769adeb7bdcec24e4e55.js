@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b81381a2ca7d052bfda59c15a38f7a8",
+    "revision": "a6818076711c6e5e38c48cd4ecdaee9e",
     "url": "/NailzbyAmyz/index.html"
   },
   {
-    "revision": "7d2eeb296800d20f3e00",
-    "url": "/NailzbyAmyz/static/css/main.a9a852dc.chunk.css"
+    "revision": "03e203153ad3d5ba2c16",
+    "url": "/NailzbyAmyz/static/css/main.1446ac73.chunk.css"
   },
   {
-    "revision": "b55d21b6239fd9f828a0",
-    "url": "/NailzbyAmyz/static/js/2.bc4de67e.chunk.js"
+    "revision": "0f0f21b17e99a4723254",
+    "url": "/NailzbyAmyz/static/js/2.24430fe2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/NailzbyAmyz/static/js/2.bc4de67e.chunk.js.LICENSE.txt"
+    "url": "/NailzbyAmyz/static/js/2.24430fe2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d2eeb296800d20f3e00",
-    "url": "/NailzbyAmyz/static/js/main.b475270a.chunk.js"
+    "revision": "03e203153ad3d5ba2c16",
+    "url": "/NailzbyAmyz/static/js/main.b084bdac.chunk.js"
   },
   {
     "revision": "fc4c238fa8a581118423",
