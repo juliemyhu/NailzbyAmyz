@@ -22,7 +22,7 @@ class OpenForm extends Component {
                 <label>Time
                     <input type="time"></input>
                   </label>
-
+                    <button>Submit</button>
                 </label>
              </form>
          </div>

@@ -20,6 +20,7 @@ class Portfolio extends Component {
                  
 
                 </div>
+                <p id="break"></p>
             </Aux>
         )
     }

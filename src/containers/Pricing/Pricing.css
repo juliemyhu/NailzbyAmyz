@@ -11,9 +11,20 @@
 #list{
     font-family: 'Bintari';
     font-size: 50px;
+    background-position: left;
+   
 }
 
 #service{
+    list-style-type: none;
     font-family:'Bintari' ;
     font-size: 40px;
+    background-color: white;
+    list-style-position: inside;
+}
+
+#question{
+    font-family: 'Lucida Sans';
+    font-size: 90%;
+
 }

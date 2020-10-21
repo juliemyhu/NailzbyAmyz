@@ -14,16 +14,22 @@ class Pricing extends Component {
                 <div id="Background">
                     <ul id="list">
                         Nail Services by Amy
-                        <li id="service">gel manicure $25
+                        <li id="service">gel manicure . . . . $25
                         </li> 
-                        <li id="service">gel pedicre $25
+                        <li id="service">gel pedicure . . . .  . $25
                         </li> 
-                        <li id="service">acrylic $40+                       
+                        <li id="service">acrylic . . . . . . . . . . $40+                       
                         </li> 
+                        <li id="service">nail art . . . . . . . . . . .$5+                       
+                        </li>
+                        <div id="question">Questions? Contact us below! </div>
                     </ul>
+                
                 </div>
+               
 
             </div>
+            <p id="break"></p>
         </Aux>
     );
   }
