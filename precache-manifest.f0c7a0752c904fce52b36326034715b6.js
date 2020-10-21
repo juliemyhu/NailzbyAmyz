@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6818076711c6e5e38c48cd4ecdaee9e",
+    "revision": "eda63218eb1709bff151098653f09447",
     "url": "/NailzbyAmyz/index.html"
   },
   {
-    "revision": "03e203153ad3d5ba2c16",
-    "url": "/NailzbyAmyz/static/css/main.1446ac73.chunk.css"
+    "revision": "a79159db584222176355",
+    "url": "/NailzbyAmyz/static/css/main.d1803ce4.chunk.css"
   },
   {
     "revision": "0f0f21b17e99a4723254",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NailzbyAmyz/static/js/2.24430fe2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03e203153ad3d5ba2c16",
-    "url": "/NailzbyAmyz/static/js/main.b084bdac.chunk.js"
+    "revision": "a79159db584222176355",
+    "url": "/NailzbyAmyz/static/js/main.3e695d0f.chunk.js"
   },
   {
     "revision": "fc4c238fa8a581118423",
