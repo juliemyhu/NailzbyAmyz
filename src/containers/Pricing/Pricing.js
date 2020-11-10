@@ -26,8 +26,7 @@ class Pricing extends Component {
                     </ul>
                 
                 </div>
-               
-
+            
             </div>
             <p id="break"></p>
         </Aux>

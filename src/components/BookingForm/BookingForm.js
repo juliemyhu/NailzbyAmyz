@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import { withRouter } from "react-router-dom";
 import './BookingForm.css';
 // import axios from '../../axios-appt';
-
-
 // import DatePicker from "react-datepicker";
 // import "react-datepicker/dist/react-datepicker.css";
 
@@ -11,9 +9,10 @@ class OpenForm extends Component {
  render() {
      return (
          <div>
-             <form>
+             <form id="idlabel"> 
+                <div id="disclaimeralert">***Amy is currently not taking appointments. Please contact her in the links below if you are a new or returning client.***</div>
                  <div>
-                 <label>Email address
+                 <label >Email address
                     <input type="email"></input>
                   </label>
                  </div>
@@ -22,7 +21,7 @@ class OpenForm extends Component {
                 <label>Time
                     <input type="time"></input>
                   </label>
-                    <button>Submit</button>
+                    <button className="btn btn-primary" id="submitButton" >Submit</button>
                 </label>
              </form>
          </div>

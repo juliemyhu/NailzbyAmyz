@@ -18,6 +18,7 @@ class Home extends Component {
                             </p>
                         </div>
                 </div>
+                <p id="break"></p>
             </Aux>
         )
     }

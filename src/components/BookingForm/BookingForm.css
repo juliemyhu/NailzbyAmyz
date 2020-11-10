@@ -1,0 +1,15 @@
+
+
+#disclaimeralert {
+    color:red
+}
+
+#idlabel {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#submitButton{
+    margin-bottom: 10px;
+    background-color: rosybrown;
+}
