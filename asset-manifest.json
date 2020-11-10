@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NailzbyAmyz/static/css/main.d1803ce4.chunk.css",
-    "main.js": "/NailzbyAmyz/static/js/main.3e695d0f.chunk.js",
-    "main.js.map": "/NailzbyAmyz/static/js/main.3e695d0f.chunk.js.map",
+    "main.css": "/NailzbyAmyz/static/css/main.8ea648d4.chunk.css",
+    "main.js": "/NailzbyAmyz/static/js/main.7766a958.chunk.js",
+    "main.js.map": "/NailzbyAmyz/static/js/main.7766a958.chunk.js.map",
     "runtime-main.js": "/NailzbyAmyz/static/js/runtime-main.30098f7a.js",
     "runtime-main.js.map": "/NailzbyAmyz/static/js/runtime-main.30098f7a.js.map",
     "static/js/2.24430fe2.chunk.js": "/NailzbyAmyz/static/js/2.24430fe2.chunk.js",
     "static/js/2.24430fe2.chunk.js.map": "/NailzbyAmyz/static/js/2.24430fe2.chunk.js.map",
     "index.html": "/NailzbyAmyz/index.html",
-    "precache-manifest.f0c7a0752c904fce52b36326034715b6.js": "/NailzbyAmyz/precache-manifest.f0c7a0752c904fce52b36326034715b6.js",
+    "precache-manifest.6f1c474fc845d94de71469eca3e44b38.js": "/NailzbyAmyz/precache-manifest.6f1c474fc845d94de71469eca3e44b38.js",
     "service-worker.js": "/NailzbyAmyz/service-worker.js",
-    "static/css/main.d1803ce4.chunk.css.map": "/NailzbyAmyz/static/css/main.d1803ce4.chunk.css.map",
+    "static/css/main.8ea648d4.chunk.css.map": "/NailzbyAmyz/static/css/main.8ea648d4.chunk.css.map",
     "static/js/2.24430fe2.chunk.js.LICENSE.txt": "/NailzbyAmyz/static/js/2.24430fe2.chunk.js.LICENSE.txt",
     "static/media/aboutme.jpg": "/NailzbyAmyz/static/media/aboutme.6804dcb3.jpg",
     "static/media/Pricing.css": "/NailzbyAmyz/static/media/marble.d9a10890.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.30098f7a.js",
     "static/js/2.24430fe2.chunk.js",
-    "static/css/main.d1803ce4.chunk.css",
-    "static/js/main.3e695d0f.chunk.js"
+    "static/css/main.8ea648d4.chunk.css",
+    "static/js/main.7766a958.chunk.js"
   ]
 }
